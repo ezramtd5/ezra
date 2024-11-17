@@ -24,7 +24,7 @@ const Achievement = () => {
             des="Front-End Developer training in React.js provides hands-on experience in building dynamic, user-friendly web applications. Learn key concepts like components, state management, hooks, and routing to create responsive and scalable interfaces."
           />
           <ResumeCard
-            title="SOFTWARE TRAINING ON ALL NEWLAND PRODUCT FAMILY"
+            title="Software Training On Newland POS"
             subTitle="NewLand (May 2023 - Aug 2023)"
             result="Ethiopia"
             des="Comprehensive software training on all Newland product families equips users with the skills to operate and optimize devices effectively. This training covers installation, configuration, troubleshooting, and advanced features to ensure seamless integration into various workflows. Gain practical insights to maximize performance and efficiency."
