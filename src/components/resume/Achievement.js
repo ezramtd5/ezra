@@ -21,7 +21,7 @@ const Achievement = () => {
             title="Front-End Developer"
             subTitle="XOKA IT ( Aug 2022 - Jan 2023)"
             result="Ethiopia"
-            des="Front-End Developer training in React.js provides hands-on experience in building dynamic, user-friendly web applications. Learn key concepts like components, state management, hooks, and routing to create responsive and scalable interfaces. Master industry-relevant skills to excel in modern web development."
+            des="Front-End Developer training in React.js provides hands-on experience in building dynamic, user-friendly web applications. Learn key concepts like components, state management, hooks, and routing to create responsive and scalable interfaces."
           />
           <ResumeCard
             title="SOFTWARE TRAINING ON ALL NEWLAND PRODUCT FAMILY"
